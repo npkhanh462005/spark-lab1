@@ -1,1 +1,1 @@
-# spark-lab1
+mkdir -p data jobs
